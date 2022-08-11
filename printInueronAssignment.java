@@ -1,6 +1,6 @@
 package com.coreJava.assignments;
 
-class printIt{
+class PrintIt{
 
 	 int n = 5;
 
@@ -160,7 +160,7 @@ class printIt{
 
 }
 
-public class printIneuronAssignment {
+public class PrintIneuronAssignment {
     
     	
 
