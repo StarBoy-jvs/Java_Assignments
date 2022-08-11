@@ -1,6 +1,8 @@
+package com.coreJava.assignments;
 
 
-public class patternAssignment {
+
+public class PatternAssignment {
     
     
    
@@ -74,3 +76,4 @@ public class patternAssignment {
 
 }
 }
+
