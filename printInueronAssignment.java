@@ -170,7 +170,7 @@ public static void main(String[] args)
 {
 
 	
-	printIt p = new printIt();
+	PrintIt p = new PrintIt();
 	p.printI();
 	p.printN();
 	p.printE();
