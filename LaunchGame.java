@@ -179,7 +179,7 @@ public class LaunchGame {
 		u.collectNumFromGuesser();
 		u.collectNumFromPlayer();
 		u.compare();
-//		Round1
+//		Round3
 		u.collectNumFromGuesser();
 		u.collectNumFromPlayer();
 		u.compare();	
